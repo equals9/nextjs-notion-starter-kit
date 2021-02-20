@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'sourcing',
-  domain: 'sourcd.xyz',
+  domain: 'https://www.notion.so/sourcer'
   author: 'Chris Toler',
 
   // open graph metadata (optional)
